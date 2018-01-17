@@ -1,7 +1,7 @@
 ## SHELL LOGO DETECTION
 
 #### Algorithm: Histogram Equalization + HOG (Histogram of Oriented Gradients) + SVM (Support Vector Machine)
-#### Dataset: 10 000 pictures of Shell Logo and 10 000 pictures of different objects
+#### Dataset: 7 500 pictures of Shell Logo and 7 500 pictures of different objects
 #### Main libraries: numpy and opencv
 
 ## SAMPLE RESULTS
