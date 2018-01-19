@@ -3,6 +3,7 @@
 #### Algorithm: Histogram Equalization + HOG (Histogram of Oriented Gradients) + SVM (Support Vector Machine)
 #### Dataset: 7 500 pictures of Shell Logo and 7 500 pictures of different objects
 #### Main libraries: numpy and opencv
+#### Includes own implementation of Canny, HOG and Histogram Equalization
 
 ## SAMPLE RESULTS
 
